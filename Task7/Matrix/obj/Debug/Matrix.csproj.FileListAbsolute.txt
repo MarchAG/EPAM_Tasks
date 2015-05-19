@@ -1,7 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\obj\Debug\MyMatrix.Resource1.resources
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\bin\Debug\Matrix.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\bin\Debug\Matrix.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\obj\Debug\Matrix.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\obj\Debug\Matrix.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache

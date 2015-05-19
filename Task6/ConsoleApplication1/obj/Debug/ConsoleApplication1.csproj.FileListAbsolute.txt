@@ -1,8 +1,0 @@
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\bin\Debug\MyFIleReader.dll
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\bin\Debug\MyFIleReader.pdb
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

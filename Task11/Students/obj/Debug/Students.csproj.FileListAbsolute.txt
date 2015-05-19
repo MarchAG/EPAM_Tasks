@@ -1,5 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\Students\bin\Debug\Students.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\Students\bin\Debug\Students.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\Students\obj\Debug\Students.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\Students\obj\Debug\Students.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\bin\Debug\UnitTest.dll
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\bin\Debug\UnitTest.pdb
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\bin\Debug\MyVectorAndPolynomian.dll
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\bin\Debug\MyVectorAndPolynomian.pdb
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\obj\Debug\UnitTest.dll
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\UnitTest\obj\Debug\UnitTest.pdb

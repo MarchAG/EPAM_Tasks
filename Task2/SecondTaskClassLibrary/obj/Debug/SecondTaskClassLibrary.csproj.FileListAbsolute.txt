@@ -1,6 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\bin\Debug\SecondTaskClassLibrary.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\bin\Debug\SecondTaskClassLibrary.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\obj\Debug\SecondTaskClassLibrary.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\obj\Debug\SecondTaskClassLibrary.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\obj\Debug\MathCalculation.Resource1.resources
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\SecondTaskClassLibrary\obj\Debug\SecondTaskClassLibrary.csproj.GenerateResource.Cache

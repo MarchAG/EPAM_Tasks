@@ -1,7 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\bin\Debug\OptimizationStream.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\bin\Debug\OptimizationStream.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\obj\Debug\OptimizationClassTest.csprojResolveAssemblyReference.cache
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

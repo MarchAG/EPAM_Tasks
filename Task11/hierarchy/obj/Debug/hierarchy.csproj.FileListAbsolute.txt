@@ -1,5 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\hierarchy\bin\Debug\hierarchy.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\hierarchy\bin\Debug\hierarchy.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\hierarchy\obj\Debug\hierarchy.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\hierarchy\obj\Debug\hierarchy.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\hierarchy\obj\Debug\hierarchy.csprojResolveAssemblyReference.cache

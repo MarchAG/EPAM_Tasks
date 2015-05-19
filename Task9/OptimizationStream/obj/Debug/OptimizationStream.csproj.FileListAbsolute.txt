@@ -1,5 +1,0 @@
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\OptimizationStream\bin\Debug\OptimizationStream.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\OptimizationStream\bin\Debug\OptimizationStream.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\OptimizationStream\obj\Debug\OptimizationStream.dll
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\OptimizationStream\obj\Debug\OptimizationStream.pdb
-C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\OptimizationStream\obj\Debug\OptimizationStream.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\bin\Debug\MyVectorAndPolynomian.dll
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\bin\Debug\MyVectorAndPolynomian.pdb
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\obj\Debug\MyVectorAndPolynomian.dll
-c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\obj\Debug\MyVectorAndPolynomian.pdb
-C:\Users\Антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\obj\Debug\MyVectorAndPolynomial.Resource1.resources
-C:\Users\Антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\obj\Debug\MyVectorAndPolynomian.csproj.GenerateResource.Cache
-C:\Users\Антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\MyVectorAndPolynomian\obj\Debug\MyVectorAndPolynomian.csprojResolveAssemblyReference.cache

@@ -1,4 +1,0 @@
-c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Task6Class\bin\Debug\Task6Class.dll
-c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Task6Class\bin\Debug\Task6Class.pdb
-c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Task6Class\obj\Debug\Task6Class.dll
-c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Task6Class\obj\Debug\Task6Class.pdb
