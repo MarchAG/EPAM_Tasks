@@ -6,3 +6,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConso
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.csprojResolveAssemblyReference.cache
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.exe
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task4\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task4\TriangleConsole\obj\Debug\TriangleConsole.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task4\TriangleConsole\obj\Debug\TriangleConsole.pdb

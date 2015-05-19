@@ -6,3 +6,6 @@ c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\
 c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\MyVectorAndPolynomian.pdb
 c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.exe
 c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task5\ConsoleVecTaNDpOLYNOM\bin\Debug\ConsoleVecTaNDpOLYNOM.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task5\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task5\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.pdb

@@ -8,3 +8,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplicat
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\BinaryTree.pdb
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\Students.pdb
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\obj\Debug\ShowTree.csprojResolveAssemblyReference.cache
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task11\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task11\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

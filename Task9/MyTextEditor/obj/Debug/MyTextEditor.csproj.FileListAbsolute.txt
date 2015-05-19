@@ -13,3 +13,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\MyTextEditor\obj
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\MyTextEditor\obj\Debug\MyTextEditor.pdb
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\MyTextEditor\bin\Debug\OptimizationStream.dll
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task9\MyTextEditor\bin\Debug\OptimizationStream.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task9\MyTextEditor\bin\Debug\MyTextEditor.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task9\MyTextEditor\obj\Debug\MyTextEditor.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task9\MyTextEditor\obj\Debug\MyTextEditor.pdb

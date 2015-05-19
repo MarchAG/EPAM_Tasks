@@ -13,3 +13,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\D
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.csproj.GenerateResource.Cache
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.exe
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task10\ShowTimer\bin\Debug\ShowTimer.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task10\ShowTimer\obj\Debug\ShowTimer.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task10\ShowTimer\obj\Debug\ShowTimer.pdb

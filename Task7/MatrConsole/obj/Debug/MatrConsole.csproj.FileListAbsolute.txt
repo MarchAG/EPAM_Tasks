@@ -6,3 +6,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.csprojResolveAssemblyReference.cache
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.exe
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task7\MatrConsole\bin\Debug\MatrConsole.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task7\MatrConsole\obj\Debug\MatrConsole.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task7\MatrConsole\obj\Debug\MatrConsole.pdb

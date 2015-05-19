@@ -6,3 +6,6 @@ c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\D
 c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
 c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.exe
 c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task3\Console\bin\Debug\Console.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task3\Console\obj\Debug\Console.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task3\Console\obj\Debug\Console.pdb

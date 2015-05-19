@@ -17,3 +17,6 @@ C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\Wpf\bin\Debug\B
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\Wpf\bin\Debug\Students.pdb
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\Wpf\bin\Debug\QueriesForTreeOfStudents.dll
 C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\Wpf\bin\Debug\QueriesForTreeOfStudents.pdb
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task12\Wpf\bin\Debug\Wpf.exe.config
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task12\Wpf\obj\Debug\Wpf.exe
+c:\Users\Антон\Documents\GitHub\EPAM_Tasks\Task12\Wpf\obj\Debug\Wpf.pdb
