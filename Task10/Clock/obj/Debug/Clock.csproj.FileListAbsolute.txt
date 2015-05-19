@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\bin\Debug\Clock.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\bin\Debug\Clock.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\obj\Debug\Clock.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\obj\Debug\Clock.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\obj\Debug\Clock.ResTimerEx.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache

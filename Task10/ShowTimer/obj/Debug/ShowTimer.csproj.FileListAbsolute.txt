@@ -1,0 +1,15 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\bin\Debug\ShowTimer.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\bin\Debug\ShowTimer.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\bin\Debug\ShowTimer.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\bin\Debug\Clock.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\bin\Debug\Clock.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\MainWindow.baml
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\App.g.cs
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer_MarkupCompile.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.g.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task10\ShowTimer\obj\Debug\ShowTimer.pdb

@@ -1,0 +1,11 @@
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\bin\Debug\Charts.exe.config
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\bin\Debug\Charts.exe
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\bin\Debug\Charts.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\bin\Debug\NODClassLibrary.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\bin\Debug\NODClassLibrary.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.csprojResolveAssemblyReference.cache
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.Form1.resources
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.Properties.Resources.resources
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.csproj.GenerateResource.Cache
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.exe
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Charts\obj\Debug\Charts.pdb

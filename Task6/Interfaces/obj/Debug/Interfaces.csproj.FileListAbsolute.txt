@@ -1,0 +1,8 @@
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\bin\Debug\Interfaces.exe.config
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\bin\Debug\Interfaces.exe
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\bin\Debug\Task6Class.dll
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\bin\Debug\Task6Class.pdb
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\obj\Debug\Interfaces.exe
+c:\users\антон\documents\visual studio 2013\Projects\Task6Class\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,13 @@
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\bin\Debug\WpfTask3.exe.config
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\bin\Debug\WpfTask3.exe
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\bin\Debug\WpfTask3.pdb
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\MainWindow.baml
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\MainWindow.g.cs
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\App.g.cs
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3_MarkupCompile.cache
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.g.resources
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.Properties.Resources.resources
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.csproj.GenerateResource.Cache
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.exe
+c:\users\антон\documents\visual studio 2013\Projects\WpfTask3\WpfTask3\obj\Debug\WpfTask3.pdb

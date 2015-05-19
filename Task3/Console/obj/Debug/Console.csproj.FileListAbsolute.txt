@@ -1,0 +1,8 @@
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\Debug\Console.exe.config
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\Debug\Console.exe
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\Debug\Console.pdb
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\Debug\NODClassLibrary.dll
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\bin\Debug\NODClassLibrary.pdb
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.exe
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\Console\obj\Debug\Console.pdb

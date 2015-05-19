@@ -1,0 +1,8 @@
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecAndPolynom.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\ConsoleVecTaNDpOLYNOM.exe.config
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\ConsoleVecTaNDpOLYNOM.exe
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\ConsoleVecTaNDpOLYNOM.pdb
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\MyVectorAndPolynomian.dll
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\bin\Debug\MyVectorAndPolynomian.pdb
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.exe
+c:\users\антон\documents\visual studio 2013\Projects\MyVectorAndPolynomian\ConsoleVecTaNDpOLYNOM\obj\Debug\ConsoleVecTaNDpOLYNOM.pdb

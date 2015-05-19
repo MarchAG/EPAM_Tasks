@@ -1,0 +1,14 @@
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\bin\Debug\NODClassLibrary.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\bin\Debug\NODClassLibrary.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\UnitTests\obj\Debug\UnitTests.pdb
+D:\AntonProject\WpfTask3\UnitTests\bin\Debug\UnitTests.dll
+D:\AntonProject\WpfTask3\UnitTests\bin\Debug\UnitTests.pdb
+D:\AntonProject\WpfTask3\UnitTests\bin\Debug\NODClassLibrary.dll
+D:\AntonProject\WpfTask3\UnitTests\bin\Debug\NODClassLibrary.pdb
+D:\AntonProject\WpfTask3\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\AntonProject\WpfTask3\UnitTests\obj\Debug\UnitTests.dll
+D:\AntonProject\WpfTask3\UnitTests\obj\Debug\UnitTests.pdb

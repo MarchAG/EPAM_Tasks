@@ -1,0 +1,10 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\BinaryTree.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\BinaryTree.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\Students.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\ConsoleApplication1\bin\Debug\Students.pdb

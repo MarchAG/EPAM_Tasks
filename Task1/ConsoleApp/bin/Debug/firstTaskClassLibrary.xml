@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>firstTaskClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:FormatForString.Formatting">
+            <summary>
+            Class for working with a formating strings
+            </summary>
+        </member>
+        <member name="M:FormatForString.Formatting.IsValid(System.String)">
+            <summary>
+            Validate string
+            </summary>
+            <param name="str">string to check</param>
+            <returns>Is valid</returns>
+        </member>
+        <member name="M:FormatForString.Formatting.Format(System.IO.FileStream)">
+            <summary>
+            format string from file
+            </summary>
+            <param name="file">file with coordinates</param>
+            <returns>formated string</returns>
+        </member>
+        <member name="M:FormatForString.Formatting.Format(System.String)">
+            <summary>
+            format string
+            </summary>
+            <param name="coordinates">coordinates</param>
+            <returns>formated string</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,8 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\bin\Debug\TriangleConsole.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\bin\Debug\TriangleConsole.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\bin\Debug\TriangleClass.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\bin\Debug\TriangleClass.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleConsole\obj\Debug\TriangleConsole.pdb

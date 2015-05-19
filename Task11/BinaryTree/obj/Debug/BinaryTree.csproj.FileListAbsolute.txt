@@ -1,0 +1,4 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task11\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,5 @@
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\NODClassLibrary\bin\Debug\NODClassLibrary.dll
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\NODClassLibrary\bin\Debug\NODClassLibrary.pdb
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\NODClassLibrary\obj\Debug\NODClassLibrary.dll
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\NODClassLibrary\obj\Debug\NODClassLibrary.pdb
+c:\Users\Антон\documents\visual studio 2013\Projects\WpfTask3\NODClassLibrary\obj\Debug\NODClassLibrary.csprojResolveAssemblyReference.cache

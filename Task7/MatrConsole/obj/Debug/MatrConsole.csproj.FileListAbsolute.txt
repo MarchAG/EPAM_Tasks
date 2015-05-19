@@ -1,0 +1,8 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\Debug\MatrConsole.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\Debug\MatrConsole.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\Debug\MatrConsole.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\Debug\Matrix.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\bin\Debug\Matrix.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\MatrConsole\obj\Debug\MatrConsole.pdb

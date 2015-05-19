@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\bin\Debug\UnitTestsForMatriix.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\bin\Debug\UnitTestsForMatriix.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\bin\Debug\Matrix.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\bin\Debug\Matrix.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\obj\Debug\UnitTestsForMatriix.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\obj\Debug\UnitTestsForMatriix.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task7\UnitTestsForMatriix\obj\Debug\UnitTestsForMatriix.pdb

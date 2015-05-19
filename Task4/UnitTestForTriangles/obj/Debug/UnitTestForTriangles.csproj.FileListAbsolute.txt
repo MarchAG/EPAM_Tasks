@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\bin\Debug\UnitTestForTriangles.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\bin\Debug\UnitTestForTriangles.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\bin\Debug\TriangleClass.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\bin\Debug\TriangleClass.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\obj\Debug\UnitTestForTriangles.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\obj\Debug\UnitTestForTriangles.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\UnitTestForTriangles\obj\Debug\UnitTestForTriangles.pdb

@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\bin\Debug\TriangleClass.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\bin\Debug\TriangleClass.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\obj\Debug\TriangleClass.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\obj\Debug\TriangleClass.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\obj\Debug\TriangleClass.ResThrows.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\obj\Debug\TriangleClass.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Triangle\TriangleClass\obj\Debug\TriangleClass.csprojResolveAssemblyReference.cache

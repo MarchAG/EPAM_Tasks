@@ -1,0 +1,8 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\bin\Debug\Newton.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\bin\Debug\Newton.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\bin\Debug\Newton.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\bin\Debug\SecondTaskClassLibrary.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\bin\Debug\SecondTaskClassLibrary.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\obj\Debug\Newton.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\obj\Debug\Newton.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\SecondTaskClassLibrary\Newton\obj\Debug\Newton.pdb

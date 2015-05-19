@@ -1,0 +1,6 @@
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\bin\Debug\firstTaskClassLibrary.XML
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\bin\Debug\firstTaskClassLibrary.dll
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\bin\Debug\firstTaskClassLibrary.pdb
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\obj\Debug\FormatForString.csprojResolveAssemblyReference.cache
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\obj\Debug\firstTaskClassLibrary.dll
+c:\Users\Антон\Documents\Visual Studio 2013\Projects\firstTaskClassLibrary\firstTaskClassLibrary\obj\Debug\firstTaskClassLibrary.pdb

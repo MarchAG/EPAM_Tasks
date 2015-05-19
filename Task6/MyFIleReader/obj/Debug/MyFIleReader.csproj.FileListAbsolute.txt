@@ -1,0 +1,7 @@
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\bin\Debug\MyFIleReader.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\bin\Debug\MyFIleReader.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\obj\Debug\MyFIleReader.dll
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\obj\Debug\MyFIleReader.pdb
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\obj\Debug\MyFIleReader.csprojResolveAssemblyReference.cache
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\obj\Debug\MyFIleReader.ReaderExceptrions.resources
+C:\Users\Антон\documents\visual studio 2013\Projects\Task6Class\MyFIleReader\obj\Debug\MyFIleReader.csproj.GenerateResource.Cache

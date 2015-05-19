@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\bin\Debug\QueriesForTreeOfStudents.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\bin\Debug\QueriesForTreeOfStudents.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\bin\Debug\Students.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\bin\Debug\Students.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\obj\Debug\QueriesForTreeOfStudents.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\obj\Debug\QueriesForTreeOfStudents.dll
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Task12\QueriesForTreeOfStudents\obj\Debug\QueriesForTreeOfStudents.pdb
